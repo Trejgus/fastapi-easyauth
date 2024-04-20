@@ -1,4 +1,4 @@
-# FastAPI EasyEasyAuth #
+# FastAPI EasyAuth #
 
 ## What is this? ##
 This library quickly and easily creates authentication using JWT and Cookies. You can also use easyauth to identify an active user
